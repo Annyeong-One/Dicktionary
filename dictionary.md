@@ -42,6 +42,8 @@ kx (Dikdix) : 알다 \
 xx (Dixdix) : 나 \
 xxc (Dixdixc) : 이것, 그것 \
 ckc (Dickdic) : 원하다, 원하는 \
+ckx (Dickdix) : 성공, 끝내다 \
 -xx (Didixdix) : 너 \
 -xxc (Didixdixc) : 저것 \
 -xxk (Didixdixk) : 이름 \
+-ckx (Didickdix) : 실패, 끝내지 못하다 \
