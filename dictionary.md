@@ -26,6 +26,7 @@ ck (Dick) : 신, 신찬 (God, Dick)
 4. 일반적으로, '-'는 부정의 의미를 가집니다. 만약 반댓말이 있는 단어를 추가한다면 되도록 앞에 -를 붙인 반댓말도 함께 추가해주세요. 예시: xk와 -xk (죽다 와 살다)
 
 c (Dic) : 네, 맞다, 옳은 \
+k (Dik) : 목 \
 x (Dix) : 찬양하다, 믿다 \
 ck (Dick) : 신, 신찬 (God, Dick) \
 xc (Dixc) : 여기 \
@@ -40,10 +41,14 @@ cc (Dicdic) : 가다 \
 cx (Dicdix) : 하다, 해내다 \
 kx (Dikdix) : 알다 \
 xx (Dixdix) : 나 \
+cck (Dicdick) : 2, 두 배의 \
 xxc (Dixdixc) : 이것, 그것 \
 ckc (Dickdic) : 원하다, 원하는 \
 ckx (Dickdix) : 성공, 끝내다 \
 -xx (Didixdix) : 너 \
+ckck (Dickdick) : 7 \
+-cck (Didicdick) : 반, 절반의 \
 -xxc (Didixdixc) : 저것 \
 -xxk (Didixdixk) : 이름 \
 -ckx (Didickdix) : 실패, 끝내지 못하다 \
+ck-ck (Dickiesdick) : 지구, 땅, 지표면 \
