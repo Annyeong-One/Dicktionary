@@ -31,4 +31,3 @@ ckck (Dickdick) : 7 \
 -xxc (Didixdixc) : 저것 \
 -xxk (Didixdixk) : 이름 \
 -ckx (Didickdix) : 실패, 끝내지 못하다 \
-ckck (Dickiesdick) : 지구, 땅, 지표면 \
