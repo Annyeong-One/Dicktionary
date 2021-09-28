@@ -51,3 +51,5 @@ ckck (Dickdick) : 7 \
 -xxc (Didixdixc) : 저것 \
 -xxk (Didixdixk) : 이름 \
 -ckx (Didickdix) : 실패, 끝내지 못하다 \
+kxx (dikdixdix) : 먹다 \
+-kxx (didikdixdix) : 빨다 \
