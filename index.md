@@ -34,6 +34,6 @@ ckck (Dickdick) : 7 \
 -xxc (Didixdixc) : 저것 \
 -xxk (Didixdixk) : 이름 \
 -ckx (Didickdix) : 실패, 끝내지 못하다 \
-cxx (dicdixdix) : 국가
+cxx (dicdixdix) : 국가 \
 kxx (dikdixdix) : 먹다 \
 -kxx (didikdixdix) : 빨다 \
