@@ -20,9 +20,11 @@ ck- (Dickies) : 옷, 천, 옷감 \
 cc (Dicdic) : 가다 \
 cx (Dicdix) : 하다, 해내다 \
 kc (Dikdic) : 하늘, 천국 \
+kk (dikdik) : 깃발 \
 kx (Dikdix) : 알다 \
 xx (Dixdix) : 나 \
 cck (Dicdick) : 2, 두 배의 \
+cxc (Dicdixc) : 승리하다 \
 xxc (Dixdixc) : 이것, 그것 \
 ckc (Dickdic) : 원하다, 원하는 \
 ckx (Dickdix) : 성공, 끝내다 \
@@ -31,6 +33,7 @@ ckx (Dickdix) : 성공, 끝내다 \
 -xx (Didixdix) : 너 \
 ckck (Dickdick) : 7 \
 -cck (Didicdick) : 반, 절반의 \
+-cxc (Didicdixc) : 패배하다 \
 -xxc (Didixdixc) : 저것 \
 -xxk (Didixdixk) : 이름 \
 -ckx (Didickdix) : 실패, 끝내지 못하다 \
